@@ -7,7 +7,7 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
-  description = "庐山烟雨浙江潮"
+  description = "000"
 #  copyright = "Copyright © 2021 Your Name"
   dark = "auto"
   highlight = true
@@ -15,14 +15,21 @@ pygmentsUseClasses = true
 [menu]
   [[menu.main]]
     identifier = "posts"
-    name = "posts"
+  # name = "posts"
     title = "posts"
     url = "/"
     weight = 10
 
   [[menu.main]]
+    identifier = "tags"
+    name = "tags"
+    title = ""
+    url = "/tags/"
+    weight = 15
+
+  [[menu.main]]
     identifier = "about"
-   # name = "about"
+    name = "about"
     title = "about"
     url = "/about/"
     weight = 20

@@ -5,8 +5,6 @@ tags: ""
 weight: 10
 ---
 
-# plan
-
 时间不等人
 
 想做不做，机会错过
@@ -15,9 +13,10 @@ weight: 10
 
 读书切戒在慌忙，涵泳工夫兴味长
 
-## 2022-04
+> 2022-04
 
-### everyday-template
+## everyday-template
+
 + 个*组
 
 + [ ] 8*15俯卧撑
@@ -42,7 +41,7 @@ weight: 10
   + [ ] 14
   + [ ] 15
 
-### 学什么
+## 学什么
 
 > 基础
 
@@ -200,7 +199,7 @@ weight: 10
   + [x] 手把手带你调参Yolo v5 (v6.1) [csdn](https://blog.csdn.net/weixin_43694096/article/details/124378167)
     + 20220428看得懂这些参数，都已经做实验跑过了
   + [ ] mohenghui/yolov5_attention [github](https://github.com/mohenghui/yolov5_attention) - [bilibili](https://www.bilibili.com/video/BV1kS4y1c7Bm)
-  + [ ] 修改思路tricks [csdn](IOhttps://blog.csdn.net/crush111/article/details/121142674)
+  + [ ] 修改思路tricks [csdn](https://blog.csdn.net/crush111/article/details/121142674)
   + [ ] 很多种的注意力机制 [csdn](https://blog.csdn.net/weixin_43694096/article/details/124443059)
   + [ ] 手把手教学，怎么修改网络结构，添加模块,上中下教学 [csdn](https://blog.csdn.net/weixin_43799388/article/details/123597320)
   + [ ] gamma自适应对比度增强，附代码 [csdn](https://chenlinwei.blog.csdn.net/article/details/121088364)
@@ -230,7 +229,7 @@ weight: 10
 + [ ] 网络抓包
 + [ ] bash脚本，先看得懂语法再说
 
-### 其他
+## 其他
 
 + [ ] 解放鞋
 + [ ] 独轮车
@@ -266,7 +265,7 @@ weight: 10
   + [ ] 台湾大学 全球通識講座
     + [ ] 中国崛起的国际面与国内面 [youtube](https://www.youtube.com/watch?v=l2kyoLzxfzo)
 
-### 其他需要整理的东西
+## 其他需要整理的东西
 
 + [ ] <https://www.youtube.com/watch?v=1XXkl6QUfEI&ab_channel=AnduinXue>
 + [ ] 书，深度学习中的数学，微信读书

@@ -1,4 +1,3 @@
-baseURL = "https://wm65045.com"
 title = "650"
 theme = "etch"
 languageCode = ""
@@ -7,9 +6,8 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
-  description = "000"
+  description = "庐山烟雨浙江潮"
 #  copyright = "Copyright © 2021 Your Name"
-  dark = "auto"
   highlight = true
 
 [menu]

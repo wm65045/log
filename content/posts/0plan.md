@@ -282,8 +282,17 @@ weight: 10
 + [ ] 一个知乎回答,南大的计算机课程推荐 [zhihu](https://www.zhihu.com/question/356467344)
 + [ ] 节目-美好的时光 [bilibili](https://www.bilibili.com/video/BV1tD4y1X76Q)
 
-### 想法
+## 想法
 
 种植技术的咨询公司
 
 影响消费策略 大家都说好怎么办
+
+## 看文档
+
++ [ ] hugo的使用文档 [site](https://gohugo.io/documentation/)
++ [ ] Git的使用文档 git pro
+
++ 矩阵
+
+  + [ ] 3D数学基础[bili](https://www.bilibili.com/video/BV11x411U7dZ) [youtube](https://www.youtube.com/@goldliongd9408/videos)

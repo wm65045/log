@@ -49,10 +49,12 @@ tags: ""
 + lol主播
   + 东北大鹌鹑 
   + 兰林汉 [bili](https://space.bilibili.com/495087764/video)
-+ 美食，旅游 
-  + 阿星探店 [youtube](https://www.youtube.com/watch?v=G2mc1GPnoRk)  [西瓜](https://www.ixigua.com/home/110742552243)
-+ 聚合
-  + GQ-Taiwan [youtube](https://www.youtube.com/channel/UCI1zO6-A3h7DHg-R_x34vLg)
+
+## 好吃的 好玩的
+
++ 阿星探店 [youtube](https://www.youtube.com/watch?v=G2mc1GPnoRk)  [西瓜](https://www.ixigua.com/home/110742552243)
++ 小弟萝卜呀 [西瓜](https://www.ixigua.com/home/88190060450)
++ GQ-Taiwan [youtube](https://www.youtube.com/channel/UCI1zO6-A3h7DHg-R_x34vLg)
 
 ## AI
 

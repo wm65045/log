@@ -5,6 +5,11 @@ tags: ""
 weight: 
 ---
 
+## 需要解决的问题
+
++ 把CV领域常见的模型了解一下，按照[李沐的github论文精读](https://github.com/mli/paper-reading)
+
+
 ## 数理基础
 
 ## 西瓜书

@@ -67,3 +67,7 @@ tags: ""
 + 爱思想，里面有很多的文章，纯文字 [site](https://www.aisixiang.com/data/133663.html)
 
 ## 其他记录
+
++ [thecw-bilibili](https://space.bilibili.com/13081489)
+
++ [把windows用的很好，中科院，openert](https://www.bilibili.com/video/BV11y4y147y4)

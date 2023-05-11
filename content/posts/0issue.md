@@ -88,3 +88,11 @@ weight: 30
 20230509
 
 对于普通的常见的开花植物，家庭养殖
+
+## Ubuntu的
+
+为什么要从 Ubuntu 中删除 Snap？以及删除gdm？
+
++ [Remove Snap Ubuntu 22.04 LTS](https://haydenjames.io/remove-snap-ubuntu-22-04-lts/)
+
+

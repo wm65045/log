@@ -71,3 +71,18 @@ tags: ""
 + [thecw-bilibili](https://space.bilibili.com/13081489)
 
 + [把windows用的很好，中科院，openert](https://www.bilibili.com/video/BV11y4y147y4)
+
+
+## 工具网站
+
+[免费，不用注册的PDF转换，网站](https://www.cleverpdf.com/cn)
+
+[PDF文件，直接一步，切分为奇偶页面文件](https://products.aspose.app/pdf/zh/split-pdf)
+
+[PDF分割为每一页](https://docsmall.com/pdf-split)
+
+PDF倒序排列 [site1](https://tools.pdf24.org/zh/rearrange-pdf-pages)
+
+
+
+linus tech tips的Anthony

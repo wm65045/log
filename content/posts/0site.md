@@ -12,7 +12,7 @@ tags: ""
 
 + Hacker News [The painfully shy developer's guide to networking for a better job (2017)](https://news.ycombinator.com/item?id=30495342)
 
-## 博客
++ [李笑来的reborn博客存档](http://web.archive.org/web/20130805212653/http://wordpress.lixiaolai.com/ )
 
 ## 公众号
 
@@ -65,6 +65,8 @@ tags: ""
 ## 网站
 
 + 爱思想，里面有很多的文章，纯文字 [site](https://www.aisixiang.com/data/133663.html)
+
++
 
 ## 其他记录
 

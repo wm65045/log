@@ -14,6 +14,8 @@ tags: ""
 
 + [李笑来的reborn博客存档](http://web.archive.org/web/20130805212653/http://wordpress.lixiaolai.com/ )
 
++ [近现代中国哲学类，知乎](https://www.zhihu.com/question/286856975)
+
 ## 公众号
 
 + 高性能服务器开发。张小方。主要是C++服务器，网络编程。有书，有私人定制的带练服务。

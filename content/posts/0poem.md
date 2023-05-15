@@ -62,3 +62,11 @@ weight: 40
 百度百科里面有[知识图谱树](https://baike.baidu.com/lemmagraph/graphview?lemmaId=2659935&featureId=045b9b9009ee72890832d82b&classify=tree&fromModule=lemma_graph-tree)，感觉学一下植物分类，还是不错的
 
 了解一下啊,为啥有的植物能吃?为啥能吃?为啥不能吃?能量和营养的转化关系
+
+
+古诗里，作者的时间线，历史背景的时间线
+
+云霞雕色，有逾画工之妙；草木贲华，无待锦匠之奇。摘自南北朝刘勰的《文心雕龙·原道》
+
+
+精通经史百家言

@@ -6,7 +6,36 @@ tags: ""
 
 手动整理博客链接，网站链接
 
+## 学英语
+
++ plain english
+  + [美国PlainEnglish机构](https://www.plainlanguage.gov/resources/articles/)
+  + [短小精悍 几个句子 新闻](https://simpleenglishnews.com/)
+  + [带播客的文章 新闻](https://www.theringer.com/plain-english-with-derek-thompson-podcast)
+  + 
+
++ Sean Banville主题站点
+  + [各种主题词，并以这个词为主题，写一段话](https://listenaminute.com/)
+  + [各种公司的简短介绍](https://businessenglishmaterials.com/)
+
++ [英语语法、词汇，测试题](http://a4esl.org/)
++ [中文英语测试](http://iteslj.org/v/c/)
+
+<https://www.thoughtco.com/english-dialogues-for-learners-1210119>
+
 ## 网站
+
++ [buzzing新闻聚合](https://www.buzzing.cc/)
+
++ [oewnyoung短的想法](https://www.owenyoung.com/thoughts/)
+
++ [owenyoung一个信息源的整理](https://www.owenyoung.com/sources/)
+
++ [owenyoung博客文章收藏](https://clip.owenyoung.com/)
+
++ [owenyoung各种链接，每天的链接记录](https://www.owenyoung.com/categories/journal/)
+
++ [分级的英文新闻](https://breakingnewsenglish.com/)
 
 + 爱思想，里面有很多的文章，纯文字 [site](https://www.aisixiang.com/data/133663.html)
 
@@ -15,6 +44,10 @@ tags: ""
 + [李笑来的reborn博客存档](http://web.archive.org/web/20130805212653/http://wordpress.lixiaolai.com/ )
 
 + [近现代中国哲学类，知乎](https://www.zhihu.com/question/286856975)
+
++ [老杨博客](http://www.999kg.com/chinese/whatsnew/2013/lettertofriends.htm)
+
++ [一个晦涩的科技博客](https://writings.stephenwolfram.com/2018/04/learning-about-the-future-from-2001-a-space-odyssey-fifty-years-later/)
 
 ## 公众号
 
@@ -52,8 +85,6 @@ tags: ""
   + 东北大鹌鹑 
   + 兰林汉 [bili](https://space.bilibili.com/495087764/video)
 
-## 好吃的 好玩的
-
 + 阿星探店 [youtube](https://www.youtube.com/watch?v=G2mc1GPnoRk)  [西瓜](https://www.ixigua.com/home/110742552243)
 + 小弟萝卜呀 [西瓜](https://www.ixigua.com/home/88190060450)
 + GQ-Taiwan [youtube](https://www.youtube.com/channel/UCI1zO6-A3h7DHg-R_x34vLg)
@@ -63,12 +94,6 @@ tags: ""
 ## AI
 
 复旦
-
-## 网站
-
-+ 爱思想，里面有很多的文章，纯文字 [site](https://www.aisixiang.com/data/133663.html)
-
-+
 
 ## 其他记录
 
@@ -86,7 +111,5 @@ tags: ""
 [PDF分割为每一页](https://docsmall.com/pdf-split)
 
 PDF倒序排列 [site1](https://tools.pdf24.org/zh/rearrange-pdf-pages)
-
-
 
 linus tech tips的Anthony

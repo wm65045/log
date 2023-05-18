@@ -43,3 +43,9 @@ weight:
 + zsh
 + power10k
 + nerd字体
+
+## windwos
+
+浏览器
+
++ 

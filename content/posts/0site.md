@@ -93,6 +93,8 @@ tags: ""
 
 + [够力胖 Bilibili](https://space.bilibili.com/582276840)
 
+[唱歌 粥粥和小伙](https://space.bilibili.com/386934985)
+
 ## AI
 
 复旦

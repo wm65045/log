@@ -15,3 +15,9 @@ sudo captstatusui -P LBP2900
 <https://www.cnblogs.com/ComputerBlog/articles/14449407.html>
 
 ```
+
+
+## linux命令
+
+查看文件sha256数值
++ `sha256sum XXX.XXX` 

@@ -48,4 +48,14 @@ weight:
 
 浏览器
 
-+ 
+## 配置
+
++ git匿名邮箱
+ 
+ ```
+ git config --global user.name "usernameeeee"
+
+git config --global user.email "ID+username@users.noreply.github.com”
+
+
+```

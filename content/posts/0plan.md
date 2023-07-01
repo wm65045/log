@@ -296,3 +296,13 @@ weight: 10
 + 矩阵
 
   + [ ] 3D数学基础[bili](https://www.bilibili.com/video/BV11x411U7dZ) [youtube](https://www.youtube.com/@goldliongd9408/videos)
+
+
+
+----
+
+## 20230630
+
+先，要把上面的内容，再整理一下
+
+人体的各个部位的通用学名，西方的，传统的

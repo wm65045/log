@@ -58,3 +58,24 @@ weight: 50
 目的就是为了逼迫自己在自己的权衡斟酌的过程中去思考，而不是囫囵吞枣接受别人的斟酌结果。
 
 需要搞清楚不同版本差异间的大致原因
+
+## 20230810
+
+<https://www.zhihu.com/question/370748919/answer/1009547213>
+
+<https://www.zhihu.com/question/397577436/answer/2953474348>
+
+<https://www.zhihu.com/question/293940844/answer/488826360>
+
+知得也要知丧
+
+<https://www.zhihu.com/question/453455233/answer/2301060302>
+
+<https://www.zhihu.com/question/52370232/answer/130884074>
+
+<https://www.zhihu.com/question/566418985/answer/2767845832>
+
+<https://zhuanlan.zhihu.com/p/625745171>
+
+<https://www.zhihu.com/question/33555626/answer/793253926>
+

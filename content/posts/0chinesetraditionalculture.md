@@ -67,7 +67,7 @@ weight: 50
 
 <https://www.zhihu.com/question/293940844/answer/488826360>
 
-知得也要知丧
+知得也要知丧，得到的得，丧失的丧
 
 <https://www.zhihu.com/question/453455233/answer/2301060302>
 
@@ -79,3 +79,6 @@ weight: 50
 
 <https://www.zhihu.com/question/33555626/answer/793253926>
 
+## 20230917 星期天半夜
+
+小窗幽记·集醒篇

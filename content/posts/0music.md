@@ -1,5 +1,5 @@
 ---
-title: "歌单"
+title: "听"
 date: 2023-05-10T22:21:33+08:00
 tags: ""
 weight: 
@@ -30,3 +30,17 @@ experience Ludovico Einaudi
 朵儿 赵雷
 
 [放手一搏 吕小军](https://www.bilibili.com/video/BV1Bw411R7fC)
+
+小薇，黄品源
+
+太多，陈冠蒲
+
+那片海，韩红
+
+摇滚版安和桥间奏
+
+泡沫，邓紫棋
+
+末代皇帝，坂本龙一
+
+莫里康内电影配乐

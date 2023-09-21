@@ -82,7 +82,7 @@ tags: ""
 + 旅游，探索，vlog，
   + 阿轲在路上 [youtube](https://www.youtube.com/watch?v=OcdGH-TYc9M)
 + lol主播
-  + 东北大鹌鹑 
+  + 东北大鹌鹑
   + 兰林汉 [bili](https://space.bilibili.com/495087764/video)
 
 + 阿星探店 [youtube](https://www.youtube.com/watch?v=G2mc1GPnoRk)  [西瓜](https://www.ixigua.com/home/110742552243)
@@ -104,7 +104,6 @@ tags: ""
 + [thecw-bilibili](https://space.bilibili.com/13081489)
 
 + [把windows用的很好，中科院，openert](https://www.bilibili.com/video/BV11y4y147y4)
-
 
 ## 工具网站
 

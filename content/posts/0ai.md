@@ -15,7 +15,6 @@ B站的完整西瓜书课程录播 [site](https://space.bilibili.com/351729314/v
 
 + 把CV领域常见的模型了解一下，按照[李沐的github论文精读](https://github.com/mli/paper-reading)
 
-
 ## 数理基础
 
 ## 李航

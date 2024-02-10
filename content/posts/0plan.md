@@ -2,7 +2,7 @@
 title: "计划"
 date: 2022-04-23T21:40:44+08:00
 tags: ""
-weight: 10
+weight:
 ---
 
 时间不等人
@@ -306,3 +306,7 @@ weight: 10
 先，要把上面的内容，再整理一下
 
 人体的各个部位的通用学名，西方的，传统的
+
+## 20231231
+
+趙錫麟老師 - [伊斯蘭文明 Introduction to Islamic Civilization NYCU OCW](https://www.youtube.com/playlist?list=PLj6E8qlqmkFvO-haPfrmak_XjjQI3avwF)

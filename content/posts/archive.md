@@ -2,6 +2,7 @@
 title: "笔记归档"
 date: 2022-04-25T12:29:22+08:00
 tags: ""
+draft: true
 ---
 
 ## Ubuntu2204打印机

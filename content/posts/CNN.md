@@ -2,6 +2,7 @@
 title: "CNN"
 date: 2022-04-27T21:40:44+08:00
 tags: ""
+draft: true
 ---
 
 # 卷积神经网络

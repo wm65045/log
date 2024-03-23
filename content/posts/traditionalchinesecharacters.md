@@ -3,6 +3,7 @@ title: "繁体字"
 date: 2024-01-29T12:18:55+08:00
 tags: ""
 weight: 
+draft: true
 ---
 
 Many students can't even read, not to mention write, traditional full-form Chinese characters.

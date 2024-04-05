@@ -6,6 +6,9 @@ tags: ""
 
 手动整理博客链接，网站链接
 
+
+这个帖子需要打造为网页收藏平台
+
 ## 学英语
 
 + plain english
@@ -36,7 +39,7 @@ tags: ""
 + [owenyoung各种链接，每天的链接记录](https://www.owenyoung.com/categories/journal/)
 
 + [分级的英文新闻](https://breakingnewsenglish.com/)
-
+t
 + 爱思想，里面有很多的文章，纯文字 [site](https://www.aisixiang.com/data/133663.html)
 
 + Hacker News [The painfully shy developer's guide to networking for a better job (2017)](https://news.ycombinator.com/item?id=30495342)
@@ -81,23 +84,12 @@ tags: ""
 
 + 旅游，探索，vlog，
   + 阿轲在路上 [youtube](https://www.youtube.com/watch?v=OcdGH-TYc9M)
-+ lol主播
-  + 东北大鹌鹑
-  + 兰林汉 [bili](https://space.bilibili.com/495087764/video)
 
 + 阿星探店 [youtube](https://www.youtube.com/watch?v=G2mc1GPnoRk)  [西瓜](https://www.ixigua.com/home/110742552243)
 + 小弟萝卜呀 [西瓜](https://www.ixigua.com/home/88190060450)
 + GQ-Taiwan [youtube](https://www.youtube.com/channel/UCI1zO6-A3h7DHg-R_x34vLg)
 
-+ [代驾 好玩的 bilibili](https://space.bilibili.com/3461578714253416)
-
 + [够力胖 Bilibili](https://space.bilibili.com/582276840)
-
-[唱歌 粥粥和小伙](https://space.bilibili.com/386934985)
-
-## AI
-
-复旦
 
 ## 其他记录
 

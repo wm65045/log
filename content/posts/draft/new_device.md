@@ -1,5 +1,5 @@
 ---
-title: "新设备"
+title: "新设备需要注意的地方"
 date: 2022-04-27T21:40:44+08:00
 tags: ""
 weight:
@@ -58,5 +58,17 @@ draft: true
 
 git config --global user.email "ID+username@users.noreply.github.com”
 
+
+```
+
+## Ubuntu2204打印机
+
+```bash
+
+sudo /etc/init.d/ccpd start
+
+sudo captstatusui -P LBP2900
+
+<https://www.cnblogs.com/ComputerBlog/articles/14449407.html>
 
 ```

@@ -59,3 +59,7 @@ draft: true
 ## 20230924 星期天
 
 [心一，不等式专题](https://www.bilibili.com/video/BV17a4y147rg)
+
+
+我觉得都还好吧差不多，其实就是差不多是这样的我觉得差不多
+

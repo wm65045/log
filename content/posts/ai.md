@@ -25,3 +25,5 @@ B站的完整西瓜书课程录播 [site](https://space.bilibili.com/351729314/v
 论文复现比赛，里面有很多参考示例，
 
 百度paddle上的入门
+
+专栏-卷积神经网络入门讲解 [zhihu](https://zhuanlan.zhihu.com/c_141391545)

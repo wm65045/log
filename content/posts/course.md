@@ -14,7 +14,7 @@ tags: ""
 
 CS144，计算机网络的
 
-xv6
+CS231N(2016)，卷积神经网络与视觉识别，李飞飞[bili](https://www.bilibili.com/video/BV1ox411Q7KU/) 
 
 
 ## 入门课程

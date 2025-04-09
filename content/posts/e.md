@@ -168,3 +168,11 @@ The system incorporated feedback addressed. （系统纳入了已处理的反馈
 Progress was made due to conflicts avoided. （由于避免的冲突而取得了进展。）
 
 Decisions were based on data analyzed. （决策是基于已分析的数据。）
+
+## 0406
+
+Load and prepare the MNIST dataset. The pixel values of the images range from 0 through 255. 
+
+Scale these values to a range of 0 to 1 by dividing the values by `255.0`. 
+
+This also converts the sample data from integers to floating-point numbers:

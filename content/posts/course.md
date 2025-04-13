@@ -10,15 +10,47 @@ tags: ""
 
 包括一些做菜做饭，介绍相关文化领域知识的博主，或者说学语言的博主
 
+学历简历关，竞赛，实习，leetcode，项目工程能力，行业前沿的了解
+
+## 需要动手实现的东西
+
+
+
+
+
+常见的课程资源
+
++ Awesome CS Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 包含动手的实验课
 
 CS144，计算机网络的
 
 CS231N(2016)，卷积神经网络与视觉识别，李飞飞[bili](https://www.bilibili.com/video/BV1ox411Q7KU/) 
 
-
 李宏毅，机器学习2017，机器学习2021
-
 
 ## 入门课程
 
@@ -40,4 +72,4 @@ B站的完整西瓜书课程录播 [site](https://space.bilibili.com/351729314/v
 
 百度paddle上的入门
 
-专栏-卷积神经网络入门讲解 [zhihu](https://zhuanlan.zhihu.com/c_141391545)
+专栏-卷积神经网络（CNN）入门讲解 [zhihu](https://zhuanlan.zhihu.com/c_141391545)

@@ -12,6 +12,11 @@ tags: ""
 
 重点在于复习，以后能够再次主动去扩展
 
++ 科技专栏、生活健康[Mediwm](https://medium.com/explore-topics) 可以搭配bypass解锁 20250412
+
+非政治观点类，而是拓展视野的网站
++ [dig.watch](https://dig.watch/)
+
 ## 0401
 
 No part of this book may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, without the prior written permission of the publisher, except in the case of brief quotations embedded in critical articles or reviews.

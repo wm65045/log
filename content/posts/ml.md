@@ -17,3 +17,5 @@ https://mp.weixin.qq.com/s/Z-J1HhhIzjrGfwNqcjpeRQ
 [啥都生的视频对照表](https://github.com/Fafa-DL/Lhy_Machine_Learning)
 
 https://www.cnblogs.com/xiaoyufuture/p/18380599
+
+有个ML的仓库做的挺好，https://github.com/wm65045/sherlcok314159-ML/

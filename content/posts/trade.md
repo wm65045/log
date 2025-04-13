@@ -55,3 +55,21 @@ tags: ""
 纪律和兵法规则
 
 怎么购买港股，怎么购买A股
+
+## 0413 加密货币相关
+
+https://decrypt.co/
+
+https://www.coingecko.com/
+
+股票多因子模型实战，陆一潇
+
+因子投资-方法与实践，石川
+
+趋势交易，安德烈亚斯
+
+systematic trading, Robert Carver
+
+githubhunt，这个网站的功能是用自然语言描述需求，输出符合需求的githu仓库
+
+琢磨琢磨陷阱是什么样子的，比如怎么成为庄家，庄家一般是什么样子的

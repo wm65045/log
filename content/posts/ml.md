@@ -4,6 +4,8 @@ date: 2025-04-2T22:54:44+08:00
 tags: ""
 ---
 
+和鲸社区，动手学
+
 还需学西瓜书和南瓜书，找datawhale的github
 
 datawhale的yolo-master项目
@@ -19,3 +21,5 @@ https://mp.weixin.qq.com/s/Z-J1HhhIzjrGfwNqcjpeRQ
 https://www.cnblogs.com/xiaoyufuture/p/18380599
 
 有个ML的仓库做的挺好，https://github.com/wm65045/sherlcok314159-ML/
+
+fnn,cnn,rnn,lstm,gans

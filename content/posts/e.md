@@ -178,6 +178,14 @@ Decisions were based on data analyzed. （决策是基于已分析的数据。�
 
 Load and prepare the MNIST dataset. The pixel values of the images range from 0 through 255. 
 
-Scale these values to a range of 0 to 1 by dividing the values by `255.0`. 
+Scale these values to a range of 0 to 1 by dividing the values by `255.0`
 
 This also converts the sample data from integers to floating-point numbers:
+
+## 0417
+
+But wait — before you get overwhelmed by complex jargon, let’s simplify things. 
+
+Stay tuned — your journey into AI mastery is just beginning.
+
+create strikingly realistic images
